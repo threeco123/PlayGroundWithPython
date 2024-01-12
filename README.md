@@ -1,1 +1,1 @@
-"First push to Github"
+"First push to Github is successfull"
